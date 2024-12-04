@@ -1,0 +1,21 @@
+# ninja log v6
+1	142	1733299814776866672	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	93de5b5b98725f40
+1	142	1733299814776866672	/Users/tarasneridnyi/Desktop/Lab10_1_A/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	93de5b5b98725f40
+142	5305	1733299819939368318	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	5ccfa7b4f1e95418
+142	5305	1733299819939368318	/Users/tarasneridnyi/Desktop/Lab10_1_A/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	5ccfa7b4f1e95418
+5305	5473	1733299819941724120	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	16cd39bd0c61a4b2
+5305	5473	1733299819941724120	/Users/tarasneridnyi/Desktop/Lab10_1_A/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	16cd39bd0c61a4b2
+5473	5605	1733299820240175515	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	898474fd8205279f
+5473	5605	1733299820240175515	/Users/tarasneridnyi/Desktop/Lab10_1_A/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	898474fd8205279f
+5605	5775	1733299820410242287	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	2de1fd67eb8f6edd
+5605	5775	1733299820410242287	/Users/tarasneridnyi/Desktop/Lab10_1_A/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	2de1fd67eb8f6edd
+5776	5924	1733299820559026990	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	8be2f5e4070461ed
+5776	5924	1733299820559026990	/Users/tarasneridnyi/Desktop/Lab10_1_A/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	8be2f5e4070461ed
+5924	6055	1733299820690498763	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	600918e038aa6695
+5924	6055	1733299820690498763	/Users/tarasneridnyi/Desktop/Lab10_1_A/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	600918e038aa6695
+6055	6194	1733299820829576792	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	83848ed8605f42ab
+6055	6194	1733299820829576792	/Users/tarasneridnyi/Desktop/Lab10_1_A/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	83848ed8605f42ab
+6194	6386	1733299821021623980	CMakeFiles/googletest-populate-complete	e863fab92930964e
+6194	6386	1733299821021623980	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	e863fab92930964e
+6194	6386	1733299821021623980	/Users/tarasneridnyi/Desktop/Lab10_1_A/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	e863fab92930964e
+6194	6386	1733299821021623980	/Users/tarasneridnyi/Desktop/Lab10_1_A/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	e863fab92930964e
